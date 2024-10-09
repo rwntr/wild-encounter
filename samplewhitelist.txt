@@ -1,0 +1,22 @@
+#brief formatting guide
+#species with no forms should be uncommented
+#additional alola/galar forms should be formatted as comments, like so:
+#species region
+#no empty lines, leave a # in front of any empty lines
+#you can weight how often you get certain species by listing their BASE FORM multiple times.
+#you cannot yet weight different forms, do not attempt to do this, it WILL break stuff.
+#the following is a very simple example where a meowth is 3x as likely to show up.
+#all forms are equally weighted.
+#
+#
+meowth
+meowth
+meowth
+#meowth galar
+#meowth alola
+#
+ponyta
+#ponyta galar
+#
+vulpix
+#vulpix alola
